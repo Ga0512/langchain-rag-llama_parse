@@ -1,5 +1,8 @@
 # Langchain RAG Llama-Parse
 
+![untitled](https://github.com/Ga0512/langchain-rag-llama_parse/assets/115101133/9de7beaf-cff0-4842-a07a-068a30be962f)
+
+
 Based on the pixegami/langchain-rag-tutorial project, langchain-rag-llama_parse adds several features. The main one is the implementation of Llama-Parse, which expands the range of documents accepted for data, previously limited to markdown files. Furthermore, the agent creation process (search databases) has been improved, as has the execution of prompts.
 
 ## Step-by-Step
