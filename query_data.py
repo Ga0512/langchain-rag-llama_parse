@@ -42,6 +42,3 @@ def main(query_text, CHROMA_PATH, openai_api_key):
     formatted_response = f"Response: {response_text}\nSources: {sources}"
     print(formatted_response)
 
-
-if __name__ == "__main__":
-    main()
